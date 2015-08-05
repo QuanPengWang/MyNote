@@ -1,10 +1,10 @@
 #**我的笔记**
 
 ##目录
-- [**Vim**](./Vim/Catalogue.md)
-- [**Emacs**](./Emacs/Catalogue.md)
-- [**Web**](./Web/Catalogue.md)
-- [**CMake**](./CMake/Catalogue.md)
-- [**Cpp**](./Cpp/Catalogue.md)
-- [**Qt**](./Qt/Catalogue.md)
-- [**Cocos2dx**](./Cocos2dx/Catalogue.md)
+- [**Vim**](./Vim/README.md)
+- [**Emacs**](./Emacs/README.md)
+- [**Web**](./Web/README.md)
+- [**CMake**](./CMake/README.md)
+- [**Cpp**](./Cpp/README.md)
+- [**Qt**](./Qt/README.md)
+- [**Cocos2dx**](./Cocos2dx/README.md)
