@@ -19,32 +19,33 @@
 
 - 超链接
 
-		&lt;a href="www.baidu.com"&gt;百度&lt;/a&gt;
+		<a href="www.baidu.com"&gt;百度</a>
 		
 - 图片
 
-		&lt;img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg" /&gt;
+		<img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg" />
 		
 - 给图片加超链接
 
-		&lt;a href="http://www.codecademy.com"&gt; &lt;img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg" /&gt;&lt;/a&gt;
+		<a href="http://www.codecademy.com"> <img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg" /></a>
 		
 
 - 有序列表：
 
-		&lt;ol&gt;
-    		&lt;li>Test1&lt;/li&gt;
-    		&lt;li>Test2&lt;/li&gt;
-    		&lt;li>Test3&lt;/li&gt;
-    		&lt;li>Test4&lt;/li&gt;
-		&lt;/ol&gt;
+		<ol>
+    		<li>Test1</li>
+    		<li>Test2</li>
+    		<li>Test3</li>
+    		<li>Test4</li>
+		</ol>
+	
 
 
 - 无序列表：
 
-		&lt;ul&gt;
-    		&lt;li&gt;Test1&lt;/li&gt;
-    		&lt;li&gt;Test2&lt;/li&gt;
-    		&lt;li&gt;Test3&lt;/li&gt;
-    		&lt;li&gt;Test4&lt;/li&gt;
-		&lt;/ul&gt;
+		<ul>
+    		<li>Test1</li>
+    		<li>Test2</li>
+    		<li>Test3</li>
+    		<li>Test4</li>
+		</ul>
