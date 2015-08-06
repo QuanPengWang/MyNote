@@ -19,7 +19,7 @@
 
 - 超链接
 
-		<a href="www.baidu.com"&gt;百度</a>
+		<a href="www.baidu.com">百度</a>
 		
 - 图片
 
