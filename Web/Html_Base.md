@@ -27,7 +27,7 @@
 		
 - 给图片加超链接
 
-		<a href="http://www.codecademy.com"> <img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg" /></a>
+		<a href="http://www.codecademy.com"><img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg" /></a>
 		
 
 - 有序列表：
