@@ -1,5 +1,12 @@
 #**Lua 基础**
 ---
+Lua电子书下载(PDF格式)   
+1.  [Lua程序设计（第2版）中文](https://yourfilez.com/f/04dbb784d0/)   
+2.  [Lua脚本语言中文教程](https://yourfilez.com/f/b2e21bf580/)   
+3.  [Lua游戏开发实践指南](https://yourfilez.com/f/f9a93774d9/)   
+4.  [Programming in Lua](https://yourfilez.com/f/368b0ea52a/)   
+
+---
 
 1.  **Chunk：**
 
